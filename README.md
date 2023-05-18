@@ -1,2 +1,2 @@
 # Arduino-RC-Mixer
-Code for RC controller channels mixing using Arduino boards interruptions.
+Código para mixagem de canais de rádio controles utilizando pinos de interrupção de placas Arduino.
